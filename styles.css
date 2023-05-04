@@ -1,0 +1,47 @@
+body {
+
+}
+#komichi_guys {
+	background-image: url(img/bghead.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: cover;
+	height: 850px;
+	max-height: calc(100vh - 60px);
+	border-radius: 20px;
+    font-family: 'Chakra Petch';
+	background-blend-mode: hard-light;
+}
+.floating_navbar_holder {
+	margin-bottom: -87px;
+	font-family: 'Chakra Petch', sans-serif;
+	color: black;
+	font-weight: bold;
+    font-family: 'Chakra Petch';
+}
+.navbar_champher {
+	background-image: url(img/navcurve.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 100% 100%;
+	background-color: transparent;
+}
+.havebeennbox {
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 100% 100%;
+	background-image: url(img/right-text.png);	
+}
+.btn-primary {
+	background: #F04C28;
+	border: 1px solid #F04C28;
+}
+.nav-link {
+	color: black;
+    text-decoration: none;
+}
+.nav-link:hover, .nav-link:focus {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #F04C28;
+}
